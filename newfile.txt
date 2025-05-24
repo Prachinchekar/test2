@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hey there! I am using whatsaap
-=======
+
 hey! welcome to github server
->>>>>>> d158ed46bb921ec291f815f180c34e3fe9d3bcb6
+
